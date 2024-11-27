@@ -1,0 +1,16 @@
+x-jekyll: &x-jekyll
+    build: .
+    image: wrwillrosa/jekyll
+    platform: linux/amd64
+    volumes:
+      - .:/usr/src/app
+
+name: gh-pages
+
+services:
+
+  server:
+    <<: *x-jekyll
+    command: ["serve", "-H", "0.0.0.0"]
+    ports:
+      - 4000:4000
