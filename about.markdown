@@ -4,15 +4,18 @@ title: About
 permalink: /about/
 ---
 
-This is the base Jekyll theme. You can find out more info about customizing your Jekyll theme, as well as basic Jekyll usage documentation at [jekyllrb.com](https://jekyllrb.com/)
+I'm Will,
+a Senior Software Engineer with 10+ years of experience building APIs for SaaS platforms with [Rails](https://rubyonrails.org/) ([Ruby](https://www.ruby-lang.org/en/)) and [Laravel](https://laravel.com/) ([PHP](https://www.php.net/)),
+managing spatial and time series data with [PostgreSQL](https://www.postgresql.org/),
+and leading product engineering teams in startups, SMBs, and government agencies in the US, Australia, and Brazil.
 
-You can find the source code for Minima at GitHub:
-[jekyll][jekyll-organization] /
-[minima](https://github.com/jekyll/minima)
+With a proven track record of automating processes,
+modernizing legacy applications,
+and reducing cloud costs in industries like PropTech, HRTech, and environmental monitoring,
+I value working remotely in small teams and in close collaboration with clients.
 
-You can find the source code for Jekyll at GitHub:
-[jekyll][jekyll-organization] /
-[jekyll](https://github.com/jekyll/jekyll)
+This blog is where I share my notes and thoughts on technology.
 
-
-[jekyll-organization]: https://github.com/jekyll
+Feel free to follow me on [GitHub](https://github.com/wrwillrosa),
+connect with me on [LinkedIn](https://www.linkedin.com/in/wrwillrosa/),
+or email me at [wr.sesame406@passmail.net](mailto:wr.sesame406@passmail.net?subject=Hello from Will's Blog).
