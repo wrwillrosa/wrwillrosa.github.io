@@ -53,6 +53,7 @@ Download the PDF version in [English](/will-resume.pdf) or [Portuguese](/curricu
 - Built three **Laravel** + **PostgreSQL** applications: one for monitoring fire suppression activities in protected areas, another for sharing burned area data, and another for publishing reports about active fire and fire risk.
 - Managed spatial and time series data about active fire, burned area, and fire risk by administering **PostgreSQL** databases, automating backup routines and data integration processes, designing database schemas, and tuning database performance.
 - Managed web hosting of applications built with **Django**, **Laravel**, and **Node.js** by administering web servers like **Apache**, automating deployment processes, and monitoring with **Zabbix**.
+- Built two content portals, including plugins and themes using **PHP**, **Bootstrap**, and **jQuery**: one with **Drupal** for publishing documentation about the Cray XT-6 supercomputer, the other with **WordPress** for publishing standard operating procedures.
 
 ## Skills
 
