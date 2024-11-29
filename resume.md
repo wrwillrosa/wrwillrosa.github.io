@@ -4,7 +4,7 @@ title: Resume
 permalink: /resume/
 ---
 
-Download the PDF version in [English](/will-resume.pdf) or [Portuguese](/curriculo-will.pdf).
+Download the PDF version in [English](/assets/will-resume.pdf) or [Portuguese](/assets/curriculo-will.pdf).
 
 ## Experience
 
