@@ -43,7 +43,7 @@ Download the PDF version in [English](/assets/will-resume.pdf) or [Portuguese](/
 - Refactored emailing and texting capabilities in a **Laravel** + **Vue** application to comply with the CAN-SPAM Act and A2P 10DLC.
 
 ### Software Developer at the National Institute for Space Research
-<small>_From September 2011 to December 2020 (~9 years), contractor, in-office._</small><br />
+<small>_From September 2011 to December 2020 (~9 years), contractor, on-site._</small><br />
 <small>_Brazilian government agency doing R&D in Earth observation and space technology._</small>
 
 - Led up to **5-person product engineering teams** in **3 major projects**:
