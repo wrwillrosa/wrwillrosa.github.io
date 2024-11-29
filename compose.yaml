@@ -5,12 +5,12 @@ x-jekyll: &x-jekyll
     volumes:
       - .:/usr/src/app
 
-name: gh-pages
+name: will-blog
 
 services:
 
   server:
     <<: *x-jekyll
-    command: ["serve", "-H", "0.0.0.0"]
+    command: ["serve", "-D", "-H", "0.0.0.0"]
     ports:
       - 4000:4000
