@@ -8,7 +8,7 @@ Download the PDF version in [English](/assets/will-resume.pdf) or [Portuguese](/
 
 ## Experience
 
-### Senior Software Engineer at LeadSimple
+### Senior Software Engineer at [LeadSimple](https://www.leadsimple.com/)
 <small>_From February 2024 to July 2024 (~0.5 year), full-time, remote._</small><br />
 <small>_US-based B2B SaaS PropTech startup automating processes and comms for property managers._</small>
 
@@ -16,7 +16,7 @@ Download the PDF version in [English](/assets/will-resume.pdf) or [Portuguese](/
 - Improved emailing and texting capabilities in a **GraphQL API** built with **Rails** by integrating with Gmail, Outlook, Nylas, and Twilio.
 - Solved incidents in a **Rails** application hosted on **Heroku** by partnering with other engineers and analyzing observability data in **New Relic**.
 
-### Senior Software Engineer at haistack.ai
+### Senior Software Engineer at [haistack.ai](https://haistack.ai/)
 <small>_From October 2022 to February 2024 (~1.5 year), full-time, remote._</small><br />
 <small>_US-based B2B SaaS HRTech startup finding legal talent for big law and boutique firms._</small>
 
@@ -26,7 +26,7 @@ Download the PDF version in [English](/assets/will-resume.pdf) or [Portuguese](/
   - Automated data integration processes by provisioning **Apache Airflow** environments hosted on Astronomer, setting up continuous integration with **GitHub Actions**, and setting up error tracking with **Rollbar**.
 - Saved $40,000 annually by rightsizing **EC2** instances, **RDS** instances, **S3** buckets, and other resources in production, staging, and development environments hosted on **AWS** and **Heroku**.
 
-### Software Developer at NetEngine
+### Software Developer at [NetEngine](https://netengine.com.au/)
 <small>_From November 2021 to October 2022 (~1 year), full-time, remote._</small><br />
 <small>_Australian-based software development company building mobile and web applications for SMB and startups._</small>
 
@@ -34,7 +34,7 @@ Download the PDF version in [English](/assets/will-resume.pdf) or [Portuguese](/
 - Automated data synchronization processes between Go1 Content Hub and Oracle Cloud HCM using **Rails**, **Redis**, and **Sidekiq**.
 - Improved reporting, search, and third-party integration capabilities in a **Rails** + React application hosted on **AWS ECS** by using libraries like Paperclip, Thinking Sphinx, and httparty.
 
-### Software Developer at Agent Legend
+### Software Developer at [Agent Legend](https://www.agentlegend.com/)
 <small>_From December 2020 to November 2021 (~1 year), full-time, remote._</small><br />
 <small>_US-based B2B SaaS PropTech startup automating comms for real estate professionals and mortgage agents._</small>
 
@@ -42,7 +42,7 @@ Download the PDF version in [English](/assets/will-resume.pdf) or [Portuguese](/
 - Refactored Blade templates into **Vue** components and unified operations into a **REST API** built with **Laravel** for consumption by web and mobile clients.
 - Refactored emailing and texting capabilities in a **Laravel** + **Vue** application to comply with the CAN-SPAM Act and A2P 10DLC.
 
-### Software Developer at the National Institute for Space Research
+### Software Developer at the [National Institute for Space Research](https://www.gov.br/inpe/)
 <small>_From September 2011 to December 2020 (~9 years), contractor, on-site._</small><br />
 <small>_Brazilian government agency doing R&D in Earth observation and space technology._</small>
 
