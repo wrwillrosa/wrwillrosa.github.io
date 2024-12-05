@@ -19,3 +19,6 @@ This blog is where I share my notes and thoughts on technology.
 Feel free to connect with me on [LinkedIn](https://www.linkedin.com/in/wrwillrosa/),
 follow me on [GitHub](https://github.com/wrwillrosa),
 or email me at [wr.sesame406@passmail.net](mailto:wr.sesame406@passmail.net?subject=Hello from Will's Blog).
+I'm also on [Bluesky](https://bsky.app/profile/wrwillrosa.bsky.social),
+[Mastodon](https://mastodon.social/@wrwillrosa),
+and [X](https://x.com/wrwillrosa).
